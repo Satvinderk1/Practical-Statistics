@@ -25,3 +25,12 @@ distribution.
 ### 4. Central Limit Theorem - Part II
 
 - More practice on central limit theorem.
+
+### 5. Central Limit Theorem - Part III
+
+- More practice on central limit theorem to demonstarte a case where central limit theorem doesn't work.
+
+### 6. Bootstrap Sampling 
+
+- Demonstrate Bootstrap sampling using random.choice.
+
